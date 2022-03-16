@@ -1,1 +1,2 @@
 "# CalculadoraDSA" 
+## Óscar Planas
